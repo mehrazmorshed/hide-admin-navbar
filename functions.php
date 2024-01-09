@@ -37,8 +37,16 @@ function custom_admin_notice() {
     }
 
     ?>
-    <div class="notice notice-info is-dismissible" id="custom-plugin-notice">
-        <p><b>The future belongs to those who believe in the beauty of their dreams! 🎉 May all your dreams come true in 2024!</b></p>
+    <div class="notice notice-success" id="custom-plugin-notice">
+        <h3>Thank you for choosing Hide Admin Navbar!</h3> 
+        <p>
+            We hope our plugin is making your WordPress experience even better. 🚀 <br>
+            If you have a moment, please consider leaving your thoughts in a <a href="https://wordpress.org/support/plugin/hide-admin-navbar/reviews/?filter=5#new-post" target="_blank"><strong>review</strong></a>. 💖 <br>
+            Your feedback will inspire us to keep continuing improvements of our plugin. ✏️ <br>
+        </p>
+
+        <a target="_blank" class="button button-primary" style="margin-bottom: 12px;" href="https://wordpress.org/support/plugin/hide-admin-navbar/reviews/?filter=5#new-post"> Write Review </a>
+        
     </div>
     <script>
         jQuery(document).on('click', '#custom-plugin-notice .notice-dismiss', function() {
@@ -55,4 +63,3 @@ function dismiss_custom_plugin_notice() {
     update_option('custom_plugin_notice_dismissed', true);
     wp_die();
 }
-
