@@ -4,7 +4,7 @@ Donate link: https://www.buymeacoffee.com/mehrazmorshed
 Tags: hide admin bar, disable admin bar, remove admin bar, hide admin toolbar, remove admin toolbar, disable admin toolbar
 Requires at least: 4.4
 Tested up to: 6.4.2
-Stable tag: 1.4.7
+Stable tag: 1.5.2
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -87,6 +87,14 @@ If you are planning to launch an affiliate program for your WooCommerce store, W
 2. screenshot-2.png
 
 == Changelog ==
+
+= 1.5 =
+
+*Release Date - 8 January 2024*
+
+* Tested with WordPress version 6.4.2
+* Reorganized Plugin Structure
+* Optimized Code
 
 = 1.4 =
 
