@@ -4,7 +4,7 @@
  * Plugin Name:       Hide Admin Navbar - Disable Admin Bar, Remove Admin Toolbar from Frontend
  * Plugin URI:        https://wordpress.org/plugins/hide-admin-navbar/
  * Description:       Disable admin bar and remove admin toolbar from the frontend.
- * Version:           1.4.7
+ * Version:           1.5.2
  * Tested Up to:      6.4.2
  * Requires at least: 4.4
  * Requires PHP:      7.0
